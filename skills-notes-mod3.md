@@ -41,5 +41,5 @@ Preferred skills:
 
 ### **Notes:**
 
-Although both jobs were fairly different (one a more entry level position, the other a senior position), there were still many similarities between the postings. The specific coding and data skills varied, but the general NACE competency skills were a commonality in both jobs. Communication, critical thinking, technology, and teamwork skills are both hinted at many times in both postings. These more general skills are not often listed outright in the job posting, but hidden between the lines of the skills required and preferred. 
+Although both jobs were fairly different (one a more entry level position, the other a senior position), there were still many similarities between the postings. The specific coding and data skills varied, but the general NACE competency skills were a commonality in both jobs. Communication, critical thinking, technology, and teamwork skills are both hinted at many times in both postings. These more general skills are often not listed outright in the job posting, but hidden between the lines of required and preferred skills. 
 
