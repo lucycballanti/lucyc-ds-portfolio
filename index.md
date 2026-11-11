@@ -12,15 +12,15 @@ I currently work for the School of Nutrition and Public Health at OSU, helping t
 ## Skills
 
 Statistical Analysis:
-One way ANOVA F - test and post ANOVA t - test analysis
-Two - sample t - tests
-Alternative options to the t - test including Welch’s t - test, the sign test, and Wilcoxon Rank - Sum test
-Writing statistical hypotheses and drawing accurate conclusions 
+- One way ANOVA F - test and post ANOVA t - test analysis
+- Two - sample t - tests
+- Alternative options to the t - test including Welch’s t - test, the sign test, and Wilcoxon Rank - Sum test
+- Writing statistical hypotheses and drawing accurate conclusions 
 
 Coding and Technology: 
-Using R and R - markdown 
-Python 
-Microsoft Suite 
+- Using R and R - markdown 
+- Python 
+- Microsoft Suite 
 
 Interpersonal and Communicative: 
 Effective communication within a group 
