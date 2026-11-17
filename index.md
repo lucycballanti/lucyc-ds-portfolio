@@ -23,11 +23,14 @@ Coding and Technology:
 - Microsoft Suite 
 
 Interpersonal and Communicative: 
-Effective communication within a group 
-Written and verbal communication 
-Strong problem solving skills
+- Effective communication within a group 
+- Written and verbal communication 
+- Strong problem solving skills
 
 
 
 ## Projects
 Projects in progress, check back soon!
+
+
+Contact: lucy.ballanti@gmail.com
