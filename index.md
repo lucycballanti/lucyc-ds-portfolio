@@ -27,6 +27,12 @@ Interpersonal and Communicative:
 - Written and verbal communication 
 - Strong problem solving skills
 
+## Career Goals: What's Next? 
+The career goal I am currently working towards is applying to and attending graduate school after completing my undergraduate degree. The career paths I am interested in require a graduate education, and therefore I need to prepare and make myself a competetive applicant. In the short term, this means working hard in my classes to maintain my GPA. It also means taking classses on data analysis and coding that will help prepare me for a statistics based graduate program.  
+
+Some other steps to achieving this goal include getting hands on research experience, and creating positive working relationships with professors and mentors. I am interested in pursuing biostatisics, a field that combines biological and health based data and statistical analysis. Much of the job is working on experiments and helping to compile and analyze data for research projects. As such, it is important that I gain some experience working in a research lab and get exposure to analyzing and interpreting data sets. 
+
+Additionally, I aim to keep updating this portfolio as I expand my skills as a data scientist as I continue with my education. This portfolio will serve as a record of all the projects I will have undertaken in school, work, research, and internships. 
 
 
 ## Projects
